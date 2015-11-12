@@ -30,7 +30,7 @@
 
 # 开源项目
 
-## [](https://github.com/LiJunWei/storeproject)
+## Django开发商城网站
 
  - 项目地址：https://github.com/LiJunWei/storeproject
  - 开发环境：Python3.4，Django1.8.4，Mysql5.6
