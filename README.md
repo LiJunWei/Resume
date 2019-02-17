@@ -57,9 +57,3 @@ https://github.com/XiaoMi/soar/pull/185
 - 前端：HTML,CSS,JS
 
 ---
-
-# 职业规划
-
-本人喜欢技术方面的工作，计划在技术上进行更深入的研究。
-
----
