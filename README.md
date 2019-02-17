@@ -32,7 +32,7 @@
 
 # 开源项目
 
-## SOAR（小米开发的SQL优化和改写的自动化工具）
+## SOAR（小米开源的SQL优化和改写的自动化工具）
 项目地址：https://github.com/XiaoMi/soar
 
 向该项目提交表信息使用Go的int字段导致的溢出问题的issue被采纳
