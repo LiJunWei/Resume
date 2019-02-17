@@ -34,9 +34,11 @@
 
 ## SOAR（小米开发的SQL优化和改写的自动化工具）
 项目地址：https://github.com/XiaoMi/soar
-向该项目提交issue被采纳
+
+向该项目提交表信息使用Go的int字段导致的溢出问题的issue被采纳
 https://github.com/XiaoMi/soar/issues/184
-向该项目提交pull request
+
+向该项目提交以上问题的pull request
 https://github.com/XiaoMi/soar/pull/185
 
 ## 商城网站
