@@ -54,6 +54,7 @@ https://github.com/XiaoMi/soar/pull/185
 - 开发语言：Python,Go,Java
 - Web框架：Django,Flask,Tornado,Beego
 - 数据库相关：MySQL,Redis
+- 容器相关：docker
 - 前端：HTML,CSS,JS
 
 ---
