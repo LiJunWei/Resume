@@ -2,7 +2,7 @@
                          
 - 手机：13527475677
 - Email：ljw_mail@foxmail.com
-- QQ/微信号：616770282/lijunwei1257
+- QQ/微信：616770282/lijunwei1257
 
 ---
 
@@ -10,62 +10,54 @@
 
  - 李俊伟/男/1992 
  - 本科/重庆理工大学计算机科学与技术系 
- - 工作年限：一年
- - 技术博客：http://www.cnblogs.com/ljwbook/
+ - 工作年限：三年
  - Github：https://github.com/LiJunWei 
- - 期望职位：**Python开发工程师**
+ - 期望职位：**运维开发工程师**
 
 ---
 
 # 工作经历
 
-## 杭州恒生电子 （ 2015年1月 ~ 2015年11月 ）
+## 成都聚美优品 （ 2015年12月 ~ 今）
 
-### 证券极速交易项目风控模块开发 
-参与证券极速交易项目风控业务的后台逻辑开发。完成了基于Tuxedo中间件的原油期货交易业务风险控制模块开发，采用数据内存化和组播技术保证了客户对金融市场高速交易的需求。进行新业务Oracle数据库SQL脚本开发。项目交付后运行平稳，未出现重大缺陷。在项目组内提出了业务可配置化开发的方案，经过组内讨论，部分采纳。
+### 效率工程组 数据库自动化平台建设
+主导开发了聚美数据库自动化平台，管理公司所有Mysql和Redis资源。提供数据库的上下线，主从切换，多指标监控告警，数据库高可用自动切换，可视化的数据库性能报表，备份，审计，DML，DDL，权限管理，慢查询统计，sql诊断，binlog闪回等功能，项目采用Python和Go开发。
 
-项目使用技术：Linux，C++，Oracle
+## 杭州恒生电子 （ 2015年1月 ~ 2015年12月 ）
+
+### 极速交易项目组 证券极速交易项目风控模块开发
+参与证券极速交易项目风控业务的后台逻辑开发。完成了基于Tuxedo中间件的原油期货交易业务风险控制模块开发，采用数据内存化和组播技术保证了客户对金融市场高速交易的需求，项目交付后运行平稳，项目采用C++开发。
 
 ---
 
 # 开源项目
 
-## Django开发商城网站
+## SOAR（小米开发的SQL优化和改写的自动化工具）
+项目地址：https://github.com/XiaoMi/soar
+向该项目提交issue被采纳
+https://github.com/XiaoMi/soar/issues/184
+向该项目提交pull request
+https://github.com/XiaoMi/soar/pull/185
+
+## 商城网站
 
  - 项目地址：https://github.com/LiJunWei/storeproject
  - 开发环境：Python3.4，Django1.8.4，Mysql5.6
  - 项目说明：用Djano框架实现了一个购物网站的大部分基础功能，包括登录注册，商品列表，购物车等，使用Django的权限管理，Admin后台，Session实现购物车缓存，ORM常用查询，分页，排序等。
 
-## Django+Ajax实现仿百度搜索自动提示
-
- - 项目地址：https://github.com/LiJunWei/SearchProject
- - 开发环境：Python3.4 Django1.8.4 Mysql5.6
- - 项目说明：jQuery实时捕获用户输入，用Ajax的方式向后台提交，后台采用数据库模糊查询的方式返回Json结果集。
-
 ---
 
 # 技能清单
 
-以下均为我熟练使用的技能
-
-- Web开发：Python/Java
-- Web框架：Django
-- 操作系统：Linux
-- 数据库相关：MySQL/Oracle
-- 前端：HTML/CSS/JS/Bootstrap
-- 版本管理：Svn/Git/
-- 爬虫框架：Scrapy
-- 移动开发：Android
-- 文档工具：Markdown
+- 开发语言：Python,Go,Java
+- Web框架：Django,Flask,Tornado,Beego
+- 数据库相关：MySQL,Redis
+- 前端：HTML,CSS,JS
 
 ---
 
 # 职业规划
 
-本人喜欢技术方面的工作，今后希望在技术上有长远的发展，成为一名优秀的架构师。
+本人喜欢技术方面的工作，计划在技术上进行更深入的研究。
 
 ---
-
-# 致谢
-
-感谢您花时间阅读我的简历，期待能有机会和您共事。
