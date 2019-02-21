@@ -11,8 +11,7 @@
  - 李俊伟/男/1992 
  - 本科/重庆理工大学计算机科学与技术系/2011-2015
  - 工作年限：三年
- - Github：https://github.com/LiJunWei 
- - 期望职位：**运维开发工程师**
+ - Github：https://github.com/LiJunWei
 
 ---
 
@@ -53,7 +52,7 @@ https://github.com/XiaoMi/soar/pull/185
 
 - 开发语言：Python,Go,Java
 - Web框架：Django,Flask,Tornado,Beego
-- 数据库相关：MySQL,Redis
+- 数据库相关：MySQL,Redis,Mongodb
 - 容器相关：docker
 - 前端：HTML,CSS,JS
 
